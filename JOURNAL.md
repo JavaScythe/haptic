@@ -1,3 +1,5 @@
+20 Hours total
+
 ### 06-18-25: Research and Initation
 A post in the r/simracing discord led me to this link: https://www.printables.com/model/1276952-diy-simagic-p-hpr-neo-clone
 
@@ -39,5 +41,10 @@ With replacements for those, the PCB should be about 25$ and that means about 7-
 
 2 Hours
 
-### 06-23-25: Part Replacement
+### 06-23-25: Swapping extended parts for basic
+Changing the pieces did indeed have a great effect on the price
+<img width="604" alt="image" src="https://github.com/user-attachments/assets/d5d071d2-ced8-441f-81c6-c3bc40c8564c" />
 
+This means 8x motor will fit confortably in the BOM.
+
+2 Hours
