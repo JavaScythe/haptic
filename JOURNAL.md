@@ -1,3 +1,10 @@
+---
+title: "haptic"
+author: "JavaScythe"
+description: "8 channel 2A motor with flyback protection USB controller with 5 extra exposed GPIOs"
+created_at: "2025-6-18"
+---
+
 20 Hours total
 
 ### 06-18-25: Research and Initation
